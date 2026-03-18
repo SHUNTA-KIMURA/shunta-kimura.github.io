@@ -18,7 +18,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -31,8 +31,6 @@ I am honored to be selected as a Japan Federation of Economic Organizations (Kei
 
 <br>
 My research interests lie in Human-Centered NLP, Human-AI Interaction and Machine Learning.
-
-My research interests lie in human-centered NLP, human–AI interaction, and machine learning.
 
 - **Human-Centered NLP**: I am interested in developing and aligning language models that explicitly account for human involvement, including alignment, personalization, and interpretability.
 - **Human–AI Interaction**: I am interested in how humans and AI systems can collaborate effectively and how AI systems can augment human capabilities.
