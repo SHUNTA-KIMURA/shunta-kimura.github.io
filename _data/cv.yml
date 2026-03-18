@@ -3,14 +3,6 @@ cv:
   label: Undergraduate @ <a href='https://www.u-tokyo.ac.jp/en/'>The University of Tokyo</a>
   email: shunta-kimura@g.ecc.u-tokyo.ac.jp
 
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
   sections:
     Education:
       - institution: The University of Tokyo
@@ -19,15 +11,6 @@ cv:
         area: Information and Communication Engineering<br>(Electrical & Computer Engineering)
         studyType: B.E.
         start_date: 2023
-        end_date: Present
-        score: ""
-
-      - institution: The University of British Columbia
-        location: Vancouver, BC
-        url: https://www.ubc.ca/
-        area: Computer Science
-        studyType: Exchange Student
-        start_date: 2025
         end_date: Present
 
     Experience:
@@ -38,14 +21,16 @@ cv:
         end_date: 09/2026
         summary: Supervisor: Diyi Yang
 
-      - company: National Institute of Advanced Industrial Science and Technology (AIST) 
+      - company: National Institute of Advanced Industrial Science and Technology (AIST)
         position: Research Assistant
         location: Tokyo, Japan
         start_date: 01/2025
         end_date: 08/2025
         summary: Supervisor: Yoshimasa Tsuruoka
 
-    Scholarships, Fellowships, Grant & Awards:
+    Volunteer: []
+
+    Awards:
       - title: Japan Federation of Economic Organizations (Keidanren) Global Scholarship
         date: 2025
         summary: 20 recipients nationwide in Japan
@@ -54,12 +39,15 @@ cv:
 
     Languages:
       - name: Japanese
-        summary: "Native speaker"
+        summary: Native speaker
       - name: English
-        summary: "Fluent"
+        summary: Fluent
 
-    Research Interests:
+    Academic Interests:
       - name: Human-Centered Natural Language Processing
-        keywords: "Alignment, Personalization, Interpretability"
+        keywords:
+          - Alignment
+          - Personalization
+          - Interpretability
       - name: Human-AI Interaction
       - name: Machine Learning
