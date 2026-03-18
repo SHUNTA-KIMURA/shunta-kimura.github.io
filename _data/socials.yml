@@ -7,8 +7,9 @@ email: shunta-kimura@g.ecc.u-tokyo.ac.jp # your email address
 scholar_userid: QG71ozEAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-x_userid: kimura_shunta
+x_username: kimura_shunta
 github_username: SHUNTA-KIMURA
+instagram_id: shunta_2004
 # custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
 #   logo: assets/img/x-twitter-brands-solid-full.svg # can be png, svg, jpg
 #   title: X
