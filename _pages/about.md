@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 3rd-year undergraduate student at <a href='https://www.u-tokyo.ac.jp/en/'>The University of Tokyo</a>.<br>Exchange CS student at <a href='https://www.ubc.ca/'>The University of British Columbia</a>.<br>Incoming Undergraduate Visiting Researcher at <a href='https://www.stanford.edu/'>Stanford University</a>
 profile:
