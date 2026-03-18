@@ -61,8 +61,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-my-first-paper-utility-aware-task-decomposition-and-exchange-across-llm-agents-has-been-accpeted-to-aaai-bridge-program-as-an-oral-presentation",
-          title: '🏆 My first paper Utility-aware Task Decomposition and Exchange across LLM Agents has...',
+            },},{id: "news-my-paper-utility-aware-task-decomposition-and-exchange-across-llm-agents-has-been-accpeted-to-aaai-bridge-program-as-an-oral-presentation",
+          title: '🏆 My paper Utility-aware Task Decomposition and Exchange across LLM Agents has been...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
