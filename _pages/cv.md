@@ -1,7 +1,7 @@
 ---
 layout: cv
-permalink: assets/pdf/cv.pdf
-title: CV
+permalink: assets/pdf/Curriculum_Vitae.pdf
+title: Curriculum Vitae
 nav: true
 nav_order: 5
 cv_pdf:
