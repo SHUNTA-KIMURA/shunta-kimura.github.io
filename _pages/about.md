@@ -29,6 +29,7 @@ I am also an Undergraduate Visiting Researcher at the [SALT Lab, Stanford Univer
 
 I am honored to be selected as a Japan Federation of Economic Organizations (Keidanren) Global Scholarship Fellow (20 recipients nationwide) in 2025, and a Sony Group International Education Foundation Fellow in 2021.
 
+<br>
 My research interests lie in Human-Centered NLP, Human-AI Interaction and Machine Learning.
 
 - **Human-Centered NLP**: Developing and aligning language models that explicitly accounts for human involvement, such as alignment, personalization, and interpretability.
