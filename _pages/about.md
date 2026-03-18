@@ -25,7 +25,7 @@ latest_posts:
 
 I am a third-year undergraduate student in [Information and Communication Engineering](https://www.ee.t.u-tokyo.ac.jp/en/) (Electrical and Computer Engineering) at The University of Tokyo, currently on exchange at the The University of British Columbia Computer Science.
 
-I am also an Undergraduate Visiting Researcher at the [SALT Lab, Stanford University](https://saltlab.stanford.edu/) (on-site: June 2026 -- August 2026). Previously, I was a Research Assistant at [Artificial Intelligence Research Center](https://www.airc.aist.go.jp/en/), National Institute of Advanced Science and Technology (AIST), under the supervision of [Prof. Yoshimasa Tsuruoka](https://www.logos.ic.i.u-tokyo.ac.jp/~tsuruoka/).
+I am also an Undergraduate Visiting Researcher at the [SALT Lab, Stanford University](https://saltlab.stanford.edu/) (on-site: June 2026 -- August 2026). Previously, I was a Research Assistant at [Artificial Intelligence Research Center](https://www.airc.aist.go.jp/en/), National Institute of Advanced Industrial Science and Technology (AIST), under the supervision of [Prof. Yoshimasa Tsuruoka](https://www.logos.ic.i.u-tokyo.ac.jp/~tsuruoka/).
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
