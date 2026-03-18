@@ -55,11 +55,10 @@ cv:
     Languages:
       - name: Japanese
         summary: "Native speaker"
-
       - name: English
         summary: "Fluent"
 
-    Interests:
+    Research Interests:
       - name: Human-Centered Natural Language Processing
         keywords: "Alignment, Personalization, Interpretability"
       - name: Human-AI Interaction
