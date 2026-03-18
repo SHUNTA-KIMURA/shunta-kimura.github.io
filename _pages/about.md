@@ -4,13 +4,10 @@ title: about
 permalink: /
 subtitle: 3rd-year undergraduate student at <a href='https://www.u-tokyo.ac.jp/en/'>The University of Tokyo</a>.<br>Exchange CS student at <a href='https://www.ubc.ca/'>The University of British Columbia</a>.<br>Incoming Undergraduate Visiting Researcher at <a href='https://www.stanford.edu/'>Stanford University</a>
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
