@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a third-year undergraduate student in [Information and Communication Engineering](https://www.ee.t.u-tokyo.ac.jp/en/) (Electrical and Computer Engineering) at The University of Tokyo, currently on exchange at the The University of British Columbia Computer Science.
+I am a third-year undergraduate student in [Electrical Engineering and Computer Science](https://www.ee.t.u-tokyo.ac.jp/en/) at The University of Tokyo, currently on exchange at the The University of British Columbia Computer Science.
 
 I am also an Undergraduate Visiting Researcher at [Stanford University](https://www.stanford.edu/) (on-site: June 2026 -- August 2026), and fotunate to collaborate with [Prof. Diyi Yang](https://cs.stanford.edu/~diyiy/). Previously, I was a Research Assistant at [Artificial Intelligence Research Center](https://www.airc.aist.go.jp/en/), National Institute of Advanced Industrial Science and Technology (AIST), under the supervision of [Prof. Yoshimasa Tsuruoka](https://www.logos.ic.i.u-tokyo.ac.jp/~tsuruoka/).
 
