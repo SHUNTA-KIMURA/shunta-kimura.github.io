@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an undergraduate student in [Information and Communication Engineering (Electrical and Computer Engineering)](https://www.ee.t.u-tokyo.ac.jp/en/) at The University of Tokyo, currently on exchange at the [The University of British Columbia Computer Science](https://www.cs.ubc.ca/).
+I am an undergraduate student in [Information and Communication Engineering](https://www.ee.t.u-tokyo.ac.jp/en/) (Electrical and Computer Engineering) at The University of Tokyo, currently on exchange at the [The University of British Columbia Computer Science](https://www.cs.ubc.ca/).
 
 I am also an Undergraduate Visiting Researcher at the [SALT Lab, Stanford University](https://saltlab.stanford.edu/) (on-site: June 2026 -- August 2026). Previously, I was a Research Assistant at [Artificial Intelligence Research Center](https://www.airc.aist.go.jp/en/), National Institute of Advanced Science and Technology (AIST)].
 
