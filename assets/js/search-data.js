@@ -486,11 +486,25 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=QG71ozEAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-x',
+        title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("https://x.com/kimura_shunta", "_blank");
+          window.open("https://twitter.com/kimura_shunta", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/SHUNTA-KIMURA", "_blank");
+        },
+      },{
+        id: 'social-instagram',
+        title: 'Instagram',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://instagram.com/shunta_2004", "_blank");
         },
       },{
       id: 'light-theme',
