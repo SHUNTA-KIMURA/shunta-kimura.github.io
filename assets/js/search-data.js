@@ -472,18 +472,18 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=QG71ozEAAAAJ", "_blank");
         },
       },{
-        id: 'social-x',
-        title: 'X',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://twitter.com/kimura_shunta", "_blank");
-        },
-      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/SHUNTA-KIMURA", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/kimura_shunta", "_blank");
         },
       },{
         id: 'social-instagram',
