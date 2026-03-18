@@ -23,7 +23,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an undergraduate student in [Information and Communication Engineering (Electrical and Computer Engineering), The University of Tokyo](https://www.ee.t.u-tokyo.ac.jp/en/), currently on exchange at the [Department of Computer Science, The University of British Columbia](https://www.cs.ubc.ca/).<br>
+I am an undergraduate student in [Information and Communication Engineering (Electrical and Computer Engineering), The University of Tokyo](https://www.ee.t.u-tokyo.ac.jp/en/), currently on exchange at the [Department of Computer Science, The University of British Columbia](https://www.cs.ubc.ca/).
+
 I am also an Undergraduate Visiting Researcher at the [SALT Lab, Stanford University](https://saltlab.stanford.edu/) (on-site: June 2026 -- September 2026). Previously, I was a Research Assistant at [Artificial Intelligence Research Center, National Institute of Advanced Science and Technology (AIST)](https://www.airc.aist.go.jp/en/).
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
