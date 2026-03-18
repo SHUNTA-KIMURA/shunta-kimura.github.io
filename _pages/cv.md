@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: assets/pdf/akariasai_cv.pdf
+permalink: assets/pdf/Curriculum_Vitae.pdf
 title: CV
 nav: true
 nav_order: 5
