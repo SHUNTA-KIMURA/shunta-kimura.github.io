@@ -32,5 +32,7 @@ I am honored to be selected as a Japan Federation of Economic Organizations (Kei
 <br>
 My research interests lie in Human-Centered NLP, Human-AI Interaction and Machine Learning.
 
-- **Human-Centered NLP**: Developing and aligning language models that explicitly accounts for human involvement, such as alignment, personalization, and interpretability.
-- **Human-AI Interaction**: Studying how humans and AI systems can collaborate effectively and how AI systems can augment human capabilities.
+My research interests lie in human-centered NLP, human–AI interaction, and machine learning.
+
+- **Human-Centered NLP**: I am interested in developing and aligning language models that explicitly account for human involvement, including alignment, personalization, and interpretability.
+- **Human–AI Interaction**: I am interested in how humans and AI systems can collaborate effectively and how AI systems can augment human capabilities.
