@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 3rd-year Undergraduate @ <a href='https://www.u-tokyo.ac.jp/en/'>The University of Tokyo</a><br>Exchange CS student @ <a href='https://www.ubc.ca/'>The University of British Columbia</a><br>Undergraduate Visiting Research Intern @ <a href='https://www.stanford.edu/'>Stanford University</a>
+subtitle: 3rd-year Undergraduate @ <a href='https://www.u-tokyo.ac.jp/en/'>The University of Tokyo</a><br>Exchange CS student @ <a href='https://www.ubc.ca/'>The University of British Columbia</a><br>Visiting Research Intern @ <a href='https://www.stanford.edu/'>Stanford University</a>
 profile:
   align: left
   image: prof_pic.jpg
