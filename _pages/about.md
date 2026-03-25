@@ -27,7 +27,7 @@ I am a third-year undergraduate student in [Electrical Engineering and Computer 
 
 I am also a Visiting Research Intern at [Stanford University](https://www.stanford.edu/) (on-site: June 2026 -- August 2026), working with [Prof. Diyi Yang](https://cs.stanford.edu/~diyiy/). Previously, I was a Research Assistant at [Artificial Intelligence Research Center](https://www.airc.aist.go.jp/en/), National Institute of Advanced Industrial Science and Technology (AIST), under the supervision of [Prof. Yoshimasa Tsuruoka](https://www.logos.ic.i.u-tokyo.ac.jp/~tsuruoka/).
 
-I am honored to be selected as a Japan Federation of Economic Organizations (Keidanren) Global Scholarship Fellow (20 recipients nationwide) in 2025, and a Sony Group International Education Foundation Fellow in 2021.
+I have been selected as a Japan Federation of Economic Organizations (Keidanren) Global Scholarship Fellow (20 recipients nationwide) in 2025, and a Sony Group International Education Foundation Fellow in 2021.
 
 <br>
 My research interests lie in Human-Centered NLP, Human-AI Interaction and Machine Learning.
