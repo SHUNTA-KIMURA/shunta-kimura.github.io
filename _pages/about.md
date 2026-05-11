@@ -25,7 +25,7 @@ latest_posts:
 
 I am a third-year undergraduate student in [Electrical Engineering and Computer Science](https://www.ee.t.u-tokyo.ac.jp/en/) at The University of Tokyo. I am also a Visiting Research Intern at [Stanford University](https://www.stanford.edu/) (on-site: Jun 2026 -- Aug 2026), working with [Prof. Diyi Yang](https://cs.stanford.edu/~diyiy/). 
 
-Previously, I was on exchange at the The University of British Columbia Computer Science (Sep 2025 -- Apr 2026). I was a Research Assistant at [Artificial Intelligence Research Center](https://www.airc.aist.go.jp/en/), The National Institute of Advanced Industrial Science and Technology (AIST), under the supervision of [Prof. Yoshimasa Tsuruoka](https://www.logos.ic.i.u-tokyo.ac.jp/~tsuruoka/).
+Previously, I was on exchange at the The University of British Columbia Computer Science (Sep 2025 -- Apr 2026). I was also a Research Assistant at [Artificial Intelligence Research Center](https://www.airc.aist.go.jp/en/), The National Institute of Advanced Industrial Science and Technology (AIST), under the supervision of [Prof. Yoshimasa Tsuruoka](https://www.logos.ic.i.u-tokyo.ac.jp/~tsuruoka/).
 
 I have been selected as a Japan Federation of Economic Organizations (Keidanren) Global Scholarship Fellow (20 recipients nationwide) in 2025, and a Sony Group International Education Foundation Fellow in 2021.
 
